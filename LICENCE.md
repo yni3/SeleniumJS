@@ -1,6 +1,6 @@
 ﻿The BSD 2-Clause License
 --
-Copyright (c) 2013, yni3(app@yni3.org) 
+Copyright (c) 2013, yni3(app@yni3.link) 
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
